@@ -1,0 +1,8 @@
+name: Sudo
+main: com.tamenserver.sudo.Main
+version: 1.0.0
+author: TaMenServer
+commands:
+  sudo:
+    description: Sudo console to do some commands.
+    usage: /sudo <command>
