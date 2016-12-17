@@ -27,7 +27,7 @@ public class Sudo extends SudoCommand {
                 sender.sendMessage("强制指令执行出现错误!");
             }
         }
-        return false;
+        return true;
     }
 
 }
